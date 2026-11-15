@@ -4,6 +4,8 @@ An animated, click-through picture book made for the **NASA Space Apps Challenge
 
 **Read it here:** https://sbnmkyl.github.io/one-small-slip/
 
+**7-slide demo:** https://sbnmkyl.github.io/one-small-slip/demo.html
+
 ## The story
 
 On July 12, 2006, during the third spacewalk of NASA's STS-121 mission, astronaut Piers Sellers lost a spatula he was using to spread heat-shield repair putty. In this book the spatula tells its own story: from a kitchen drawer to astronaut training, launch, the moment it slips away, life among orbital debris, and its fiery return through the atmosphere.
